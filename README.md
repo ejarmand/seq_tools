@@ -1,9 +1,9 @@
-#seq_tools
+# seq_tools
 
 My toolkit for working with genomic sequences.
 
-#Current scripts:
-##one_hot_fasta.py:
+# Current scripts:
+## one_hot_fasta.py:
 usage: one_hot_fasta.py [-h] -i INPUT -o OUTPUT [-p] [-d]
 
 generates one hot encoded sequences from a fastaand saves them as a pickled
